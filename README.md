@@ -6,7 +6,11 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Next-282C34?logo=next.js&logoColor=000000" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -38,7 +42,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
